@@ -47,7 +47,8 @@ We employ an LSTM in this situation because of its ability to learn context from
 
 - Optimizing the LSTM model's fit to reduce overfitting in order to improve its performance on unobserved data.
 - Ensuring that there is a enough amount of high-quality data available for training a reliable LSTM model is one of the challenges in LSTM training.
-- Tuning the model's hyperparameters for optimum performance while avoiding overfitting is known as hyperparameter tuning.
+- Understanding and interpreting the decisions and processes of the LSTM
+model to generate a given sequence of words is a challenge
 - Managing memory and storage to meet the training requirements of more complex models.
 
 By anticipating these problems, we can create plans to avoid them and make sure the LSTM algorithm is effectively applied.
