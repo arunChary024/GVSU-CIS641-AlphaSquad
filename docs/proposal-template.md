@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Team name: AlphaSquad
 
 Team members: Arun Chary Gattoji, Dubba Suprith Son
@@ -48,7 +47,4 @@ Week 9-10: Final verification, documentation, and completion of the project.
 - Managing memory and storage to meet the training requirements of more complex models.
 
 By anticipating these problems, we can create plans to avoid them and make sure the LSTM algorithm is effectively applied.
-
-=======
->>>>>>> 510c84e4426676c4196b1351de8a6e445b575835
 
