@@ -1,12 +1,15 @@
-DATE: 09-24-2023
 
-TEAM NAME :ALPHA SQUAD 
+## Meeting minutes
 
-MEMBERS :ARUN CHARI GATTOJI, SUPRITH SON DUBBA
+Team name: ALPHA SQUAD
 
-TIME AND DURATION OF THE MEETING : 09-24-2023 30 MINTS
+Members present: ARUN CHARI GATTOJI, SUPRITH SON DUBBA
 
-KEY POINTS IN THE MEETING DISCUSSION:
+Date: 09-24-2023
+
+Time: 09-24-2023 30 MINTS
+
+### KEY POINTS IN THE MEETING DISCUSSION:
 
 	•	Discussed about the resources for finding the data sets that perfectly fit into the algorithm. 
 
@@ -14,7 +17,7 @@ KEY POINTS IN THE MEETING DISCUSSION:
 
 	•	Discussed about the availability timings of the team members fro the team meetings. 
 
-POINTS TO BE DISCUSSED FOR THE NEXT WEEK: 
+### POINTS TO BE DISCUSSED FOR THE NEXT WEEK: 
 
 	•	Installing all the required libraries that are required.
 	•	How to read the given file.
