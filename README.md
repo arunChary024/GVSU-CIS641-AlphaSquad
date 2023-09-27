@@ -5,8 +5,8 @@ Project description (~1 paragraph)
 ## Team Members and Roles
 
 * [Arun Chary Gattoji](https://github.com/arunChary024/CIS641-HW2-Gattoji.git)
-* Member 2 (Role 3, Role 4)
-* Member 3 (Role 5, Role 6)
+* [DUBBA SUPRITH SON](https://github.com/suprithson/CIS641-HW2-dubba.git)
+
 
 ## Prerequisites
 
