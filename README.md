@@ -1,6 +1,7 @@
 # Team Name
 
-Project description (~1 paragraph)
+## Project description
+- The LSTM Text Generation Tool is an innovative project focused on developing an LSTM-based algorithm that can produce coherent and contextually relevant text sequences based on user-provided keywords. Leveraging the power of deep learning, this tool will enable applications spanning content generation, creative writing, and research augmentation. Users will input a single word or phrase, serving as the foundation for generating meaningful text. With its versatility and potential for integration, the LSTM Text Generation Tool aims to become an indispensable asset for those seeking high-quality text generation across various domains.
 
 ## Team Members and Roles
 
