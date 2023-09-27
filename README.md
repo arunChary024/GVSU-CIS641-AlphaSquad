@@ -15,15 +15,14 @@
 
 - **Google Colab Account**: You should have an active Google Colab account. Google Colab provides free access to cloud-based Jupyter notebooks, making it an excellent environment for running Python code, including deep learning tasks.
 - **Access to a GPU (Optional)**: While not mandatory, having access to a GPU can significantly accelerate the training of deep learning models. Google Colab offers GPU support, and you can enable it in your Colab notebook settings.
-- **Deep Learning Framework**: Install the necessary deep learning framework TensorFlow for Python, which is required for running the LSTM-based text generation model. You can install TensorFlow using pip within your Colab notebook:
-pip install tensorflow
-- **Additional Python Libraries**: Install the necessary Python libraries and dependencies by running the following commands:
-pip install numpy
-pip install pandas
-pip install os
-pip install time
-
 -**Data**: Depending on your use case, you may need a corpus or dataset. Ensure that you have access to the training data and that it is compatible with the Google Colab environment.
+- **Deep Learning Framework**: Install the necessary deep learning framework TensorFlow for Python, which is required for running the LSTM-based text generation model. You can install TensorFlow using pip within your Colab notebook:
+	- pip install tensorflow
+- **Additional Python Libraries**: Install the necessary Python libraries and dependencies by running the following commands:
+	- pip install numpy
+	- pip install pandas
+	- pip install os
+	- pip install time
 
 ## Run Instructions
 
@@ -31,11 +30,11 @@ pip install time
 1.	**Open a Google Colab Notebook**: Navigate to Google Colab and sign in with your Google account if you haven't already.
 2.	**Create a New Notebook**: Click on "New Notebook" to create a new Colab notebook.
 3.	**Import and Install the Tool**: Within your Colab notebook, install and import the necessary libraries and dependencies. For example:
-      pip install tensorflow
-      pip install numpy
-      pip install pandas
-      pip install os
-      pip install time
+      - pip install tensorflow
+      - pip install numpy
+      - pip install pandas
+      - pip install os
+      - pip install time
 4.	**Load or Prepare Data**: Depending on your project, load the required training data or dataset you intend to use for text generation.
 5.	**Initialize the LSTM Model**: Initialize and configure the LSTM-based text generation model. Ensure that you set the appropriate hyperparameter such as the number of Epoch which represents one complete pass         through the entire training dataset during the training process.
 6.	**Input a Word**: You can give it a word as an input to generate the subsequent text from the data.
