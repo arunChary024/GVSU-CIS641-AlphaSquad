@@ -18,10 +18,11 @@
 - **Deep Learning Framework**: Install the necessary deep learning framework TensorFlow for Python, which is required for running the LSTM-based text generation model. You can install TensorFlow using pip within your Colab notebook:
 pip install tensorflow
 - **Additional Python Libraries**: Install the necessary Python libraries and dependencies by running the following commands:
-	- pip install numpy
-	- pip install pandas
-	- pip install os
-	- pip install time
+pip install numpy
+pip install pandas
+pip install os
+pip install time
+
 -**Data**: Depending on your use case, you may need a corpus or dataset. Ensure that you have access to the training data and that it is compatible with the Google Colab environment.
 
 ## Run Instructions
