@@ -29,7 +29,7 @@ We employ an LSTM in this situation because of its ability to learn context from
 
 # Estimated Timeline
 
-### The estimated timeline for this project is as follows:
+## The estimated timeline for this project is as follows:
 
 Week 1-2: Data gathering, cleaning, and preprocessing and analysis.
 Week 3-4: Creating the LSTM model, and setting up the environment.
