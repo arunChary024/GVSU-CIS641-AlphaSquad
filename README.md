@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GVSU-CIS641-AlphaSquad 
 
 ## Project description
@@ -40,4 +41,6 @@ pip install time
 6.	**Input a Word**: You can give it a word as an input to generate the subsequent text from the data.
 7.	**Run the Notebook**: Run the Colab notebook cells to execute the LSTM Text Generation Tool. Users can execute each cell sequentially or all cells at once.
 8.	**Review and Share**: Review the generated text and share the Colab notebook with others if needed.
+=======
+>>>>>>> 510c84e4426676c4196b1351de8a6e445b575835
 
