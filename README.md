@@ -25,3 +25,27 @@ pip install time
 - Training Data: Depending on your use case, you may need a corpus or dataset. Ensure that you have access to the training data and that it is compatible with the Google Colab environment.
 
 ## Run Instructions
+
+### To run the LSTM Text Generation Tool in Google Colab, follow these steps:
+1.	Open a Google Colab Notebook:
+- Navigate to Google Colab and sign in with your Google account if you haven't already.
+2.	Create a New Notebook:
+- Click on "New Notebook" to create a new Colab notebook.
+3.	Import and Install the Tool:
+- Within your Colab notebook, install and import the necessary libraries and dependencies. For example:
+      pip install tensorflow
+      pip install numpy
+      pip install pandas
+      pip install os
+      pip install time
+4.	Load or Prepare Data:
+- Depending on your project, load the required training data or dataset you intend to use for text generation.
+5.	Initialize the LSTM Model:
+- Initialize and configure the LSTM-based text generation model. Ensure that you set the appropriate hyperparameter such as the number of Epoch which represents one complete pass through the entire training dataset during the training process.
+6.	Input a Word:
+- You can give it a word as an input to generate the subsequent text from the data.
+7.	Run the Notebook:
+- Run the Colab notebook cells to execute the LSTM Text Generation Tool. Users can execute each cell sequentially or all cells at once.
+8.	Review and Share:
+- Review the generated text and share the Colab notebook with others if needed.
+
