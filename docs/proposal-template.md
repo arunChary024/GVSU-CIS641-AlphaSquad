@@ -10,30 +10,26 @@ We employ an LSTM in this situation because of its ability to learn context from
 
 # Anticipated Technologies
 
-To build this project, we will require the following technologies:
-Python: for global development and implementation of the LSTM algorithm.
-TensorFlow or PyTorch: to build and train the LSTM neural network.
-NumPy: (For efficient numerical operations and manipulating arrays of dimensions).
-Data preprocessing libraries: for preparing the input data for the LSTM model to train.
+### To build this project, we will require the following technologies:
+
+- Python for global development and implementation of the LSTM algorithm.
+- TensorFlow to build and train the LSTM neural network.
+- NumPy for efficient numerical operations and manipulating arrays of dimensions).
+- Data preprocessing libraries for preparing the input data for the LSTM model to train.
 
 # Method/Approach
 
-Our estimated plan of attack for developing this project involves the following steps:
+### Our estimated plan of attack for developing this project involves the following steps:
 
-Data Collection and Preparation: Get the LSTM model trained and tested on the right dataset. Prep the data to put in it to the network in the right shape.
-
-LSTM Model Architecture: Create the architecture of the LSTM Neural Network considering the input shape, how many layers, the units in each layer, the activation functions, and also any drop out for the regularization.
-
-Model Training: Use the chosen deep learning toolbox (TensorFlow/PyTorch) to train the LSTM model using the processed dataset. The parameter weights of the model should be fine-tuned to get the best performance.
-
-Model Evaluation and Validation: Evaluate the model’s performance by applicable metrics, and verify its predictions on new data.
-
-Fine-Tuning and Optimization: Optimize the model depending on the model evaluation results and parameter adjustments and experiment on the better-performing models.
-
+**Data Collection and Preparation**: Get the LSTM model trained and tested on the right dataset. Prep the data to put in it to the network in the right shape.
+**LSTM Model Architecture**: Create the architecture of the LSTM Neural Network considering the input shape, how many layers, the units in each layer, the activation functions, and also any drop out for the regularization.
+**Model Training:** Use the chosen deep learning toolbox (TensorFlow/PyTorch) to train the LSTM model using the processed dataset. The parameter weights of the model should be fine-tuned to get the best performance.
+**Model Evaluation and Validation**: Evaluate the model’s performance by applicable metrics, and verify its predictions on new data.
+**Fine-Tuning and Optimization**: Optimize the model depending on the model evaluation results and parameter adjustments and experiment on the better-performing models.
 
 # Estimated Timeline
 
-The estimated timeline for this project is as follows:
+### The estimated timeline for this project is as follows:
 
 Week 1-2: Data gathering, cleaning, and preprocessing and analysis.
 Week 3-4: Creating the LSTM model, and setting up the environment.
@@ -43,7 +39,7 @@ Week 9-10: Final verification, documentation, and completion of the project.
 
 # Anticipated Problems
 
-We anticipate the probable difficulties listed below as we build this project:
+### We anticipate the probable difficulties listed below as we build this project:
 
 - Optimizing the LSTM model's fit to reduce overfitting in order to improve its performance on unobserved data.
 - Ensuring that there is a enough amount of high-quality data available for training a reliable LSTM model is one of the challenges in LSTM training.
