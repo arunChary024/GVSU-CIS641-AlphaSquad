@@ -1,45 +1,34 @@
 # GVSU-CIS641-AlphaSquad 
 
 ## Project description
-
-- The LSTM Text Generation Tool is an innovative project focused on developing an LSTM-based algorithm that can produce coherent and contextually relevant text sequences based on user-provided keywords. Leveraging the power of deep learning, this tool will enable applications spanning content generation, creative writing, and research augmentation. Users will input a single word or phrase, serving as the foundation for generating meaningful text. With its versatility and potential for integration, the LSTM Text Generation Tool aims to become an indispensable asset for those seeking high-quality text generation across various domains.
+- Our project involves building a user-friendly e-commerce website, designed to provide an enjoyable shopping experience. It includes features like easy product browsing, a functional shopping cart, a smooth checkout process, user accounts for personalized shopping, and an admin panel for efficient product and order management.
 
 ## Team Members and Roles
-
 * [Arun Chary Gattoji](https://github.com/arunChary024/CIS641-HW2-Gattoji.git)
 * [DUBBA SUPRITH SON](https://github.com/suprithson/CIS641-HW2-dubba.git)
-
+* [Anusha Mandepudi](https://github.com/Anu8374/CIS641-HW2-Mandepudi.git)
+* [Bhuvaneswar reddy kunduru](https://github.com/Bhunakunduru/CIS641-HW2-kunduru)
+ 
 ## Prerequisites
+### Before using the Shopping website, please ensure that you have the following prerequisites in place:
+- Ensure you have Node.js and npm (Node Package Manager) installed on your system. You can download them from the official website: https://nodejs.org/
+- Make sure you have Git installed. You can download it from: https://git-scm.com/
 
-### Before using the LSTM Text Generation Tool, please ensure that you have the following prerequisites in place:
+### Setting up the Project
+**Clone the Repository**: Open your terminal and navigate to the directory where you want to store the project. Then, clone your GitHub repository using the following command: 
+	git clone https://github.com/yourusername/your-shopping-website.git
+**Navigate to the Project Directory**: Change your working directory to the project folder:
+	cd your-shopping-website
+**Install Dependencies:** Install the required project dependencies. This assumes you have npm installed. Run the following command:
+	npm install
 
-- **Google Colab Account**: You should have an active Google Colab account. Google Colab provides free access to cloud-based Jupyter notebooks, making it an excellent environment for running Python code, including deep learning tasks.
-- **Access to a GPU (Optional)**: While not mandatory, having access to a GPU can significantly accelerate the training of deep learning models. Google Colab offers GPU support, and you can enable it in your Colab notebook settings.
--**Data**: Depending on your use case, you may need a corpus or dataset. Ensure that you have access to the training data and that it is compatible with the Google Colab environment.
-- **Deep Learning Framework**: Install the necessary deep learning framework TensorFlow for Python, which is required for running the LSTM-based text generation model. You can install TensorFlow using pip within your Colab notebook:
-	- pip install tensorflow
-- **Additional Python Libraries**: Install the necessary Python libraries and dependencies by running the following commands:
-	- pip install numpy
-	- pip install pandas
-	- pip install os
-	- pip install time
 
 ## Run Instructions
-
-### To run the LSTM Text Generation Tool in Google Colab, follow these steps:
-1.	**Open a Google Colab Notebook**: Navigate to Google Colab and sign in with your Google account if you haven't already.
-2.	**Create a New Notebook**: Click on "New Notebook" to create a new Colab notebook.
-3.	**Import and Install the Tool**: Within your Colab notebook, install and import the necessary libraries and dependencies. For example:
-      - pip install tensorflow
-      - pip install numpy
-      - pip install pandas
-      - pip install os
-      - pip install time
-4.	**Load or Prepare Data**: Depending on your project, load the required training data or dataset you intend to use for text generation.
-5.	**Initialize the LSTM Model**: Initialize and configure the LSTM-based text generation model. Ensure that you set the appropriate hyperparameter such as the number of Epoch which represents one complete pass         through the entire training dataset during the training process.
-6.	**Input a Word**: You can give it a word as an input to generate the subsequent text from the data.
-7.	**Run the Notebook**: Run the Colab notebook cells to execute the LSTM Text Generation Tool. Users can execute each cell sequentially or all cells at once.
-8.	**Review and Share**: Review the generated text and share the Colab notebook with others if needed.
+### To run the shopping website:
+**Start the Development Server**: You can start the development server by running the following command in your project directory:
+	npm start
+This will launch your shopping website on a development server, typically at http://localhost:3000.
+**Usage**: Access the shopping website by opening a web browser and navigating to http://localhost:3000.
 
 
 

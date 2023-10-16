@@ -4,52 +4,52 @@ Team members: Arun Chary Gattoji, Dubba Suprith Son
 
 # Introduction
 
-In the field of Natural Language Processing (NLP), Long Short-Term Memory (LSTM) is actually one of the most potent sequence modeling techniques due to the rise of deep learning. It is a particular sort of recurrent neural network that can learn intricate behaviors and long-term dependencies over sequences. For predicting the following word or series of words in a given text, LSTM is particularly significant in the fields of language modeling and natural language generation.
+In the age of e-commerce, a user-friendly shopping website is crucial for both businesses and customers. Our project aims to develop a shopping website that provides an enjoyable shopping experience for visitors, allows them to view and purchase products effortlessly, and ensures smooth administration for managing products and customer orders.
+##Key Components
+###Our shopping website will have the following key components:
+1.	User-Friendly Shopping: Visitors can easily browse and search for products, view product details, and add items to their cart.
+2.	Shopping Cart: Users can add items to their cart and view the number of items in their cart instantly.
+3.	Checkout Process: Users can proceed to checkout.
+4.	User Accounts: Users can create accounts to keep track of previously purchased items, view order history, and save their shipping details for convenience.
+5.	Admin Panel: Administrators can add, update, and remove products from the website. They can also manage orders, check order status, and view recently ordered products.
 
-We employ an LSTM in this situation because of its ability to learn context from earlier time steps in a sentence. In doing so, it might be possible to produce grammatically correct word sequences that mimic the anticipatory aspect of human language comprehension and production. The main goal of this project is to develop an LSTM-based model that can predict upcoming words or phrases, hence improving language processing and enhancing text generating applications. And we'll use LSTM to build a model that can anticipate how a word will come next. By doing this, we can increase the effectiveness and accuracy of an automated text generating method.
 
 # Anticipated Technologies
 
 ### To build this project, we will require the following technologies:
 
-- Python for global development and implementation of the LSTM algorithm.
-- TensorFlow to build and train the LSTM neural network.
-- NumPy for efficient numerical operations and manipulating arrays of dimensions).
-- Data preprocessing libraries for preparing the input data for the LSTM model to train.
+-	Front-end: ReactJS for building a responsive and interactive user interface.
+-	Back-end: Firebase as the database to store product information, user data, and order history.
+-	Authentication: Firebase Authentication for user registration and login.
 
 # Method/Approach
 
-### Our estimated plan of attack for developing this project involves the following steps:
-
-**Data Collection and Preparation**: Get the LSTM model trained and tested on the right dataset. Prep the data to put in it to the network in the right shape.
-
-**LSTM Model Architecture**: Create the architecture of the LSTM Neural Network considering the input shape, how many layers, the units in each layer, the activation functions, and also any drop out for the regularization.
-
-**Model Training:** Use the chosen deep learning toolbox (TensorFlow/PyTorch) to train the LSTM model using the processed dataset. The parameter weights of the model should be fine-tuned to get the best performance.
-
-**Model Evaluation and Validation**: Evaluate the model’s performance by applicable metrics, and verify its predictions on new data.
-
-**Fine-Tuning and Optimization**: Optimize the model depending on the model evaluation results and parameter adjustments and experiment on the better-performing models.
+### Our project will follow these key steps:
+:
+1.	Front-end Development: Create a visually appealing and user-friendly interface for visitors to browse and shop for products.
+2.	Shopping Cart: Implement a shopping cart feature that allows users to add items, view the cart, and proceed to checkout.
+3.	User Accounts: Develop user account functionality for registration, login, and order history.
+4.	Admin Panel: Create an admin panel to add, update, and remove products, manage orders, and monitor customer activity.
+5.	Database Integration: Connect the front-end with Firebase to store and retrieve product data, user profiles, and order information.
+6.	Testing and Quality Assurance: Rigorously test the website for functionality, security, and performance.
+7.	Optimization: Fine-tune the website's performance and user experience.
 
 # Estimated Timeline
 
 ### The estimated timeline for this project is as follows:
 
-- Week 1-2: Data gathering, cleaning, and preprocessing and analysis.
-- Week 3-4: Creating the LSTM model, and setting up the environment.
-- Week 5-6: Train the LSTM model and first validation of results.
-- Week 7-8: Finding the model and optimizing it to obtain better outcomes.
-- Week 9-10: Final verification, documentation, and completion of the project.
+- Week 1-2: Front-end development, design, and initial user interface.
+- Week 3-4: Shopping cart functionality and user account features.
+- Week 5-6: Admin panel development and database integration.
+- Week 7-8: Testing, optimization, and final preparations.
+- Week 9-10: Final testing, documentation, and project completion.
 
 # Anticipated Problems
 
 ### We anticipate the probable difficulties listed below as we build this project:
 
-- Optimizing the LSTM model's fit to reduce overfitting in order to improve its performance on unobserved data.
-- Ensuring that there is a enough amount of high-quality data available for training a reliable LSTM model is one of the challenges in LSTM training.
-- Understanding and interpreting the decisions and processes of the LSTM
-model to generate a given sequence of words is a challenge
-- Managing memory and storage to meet the training requirements of more complex models.
+-	Performance: Optimizing the website for fast loading and smooth user experience.
+-	Scalability: Preparing the website for potential growth in the number of products and users.
 
-By anticipating these problems, we can create plans to avoid them and make sure the LSTM algorithm is effectively applied.
+By anticipating these problems, we can create plans to avoid them and ensure the website runs smoothly.
 
