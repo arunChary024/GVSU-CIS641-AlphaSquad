@@ -1,6 +1,6 @@
 Team name: AlphaSquad
 
-Team members: Arun Chary Gattoji, Dubba Suprith Son
+Team members: Arun Chary Gattoji, Dubba Suprith Son, Anusha Mandepudi, Bhuvaneswar reddy kunduru
 
 # Introduction
 
