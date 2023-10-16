@@ -9,6 +9,10 @@
 * [Anusha Mandepudi](https://github.com/Anu8374/CIS641-HW2-Mandepudi.git)
 * [Bhuvaneswar reddy kunduru](https://github.com/Bhunakunduru/CIS641-HW2-kunduru)
  
+<<<<<<< HEAD
+=======
+
+>>>>>>> 60a34c5a209a2b10dd9736228da7fe2fa520f26c
 ## Prerequisites
 ### Before using the Shopping website, please ensure that you have the following prerequisites in place:
 - Ensure you have Node.js and npm (Node Package Manager) installed on your system. You can download them from the official website: https://nodejs.org/
