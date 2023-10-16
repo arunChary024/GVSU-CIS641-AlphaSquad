@@ -9,6 +9,8 @@
 * [Arun Chary Gattoji](https://github.com/arunChary024/CIS641-HW2-Gattoji.git)
 * [DUBBA SUPRITH SON](https://github.com/suprithson/CIS641-HW2-dubba.git)
 * [Anusha Mandepudi](https://github.com/Anu8374/CIS641-HW2-Mandepudi.git)
+* [Bhuvaneswar reddy kunduru](https://github.com/Bhunakunduru/CIS641-HW2-kunduru)
+ 
 
 ## Prerequisites
 
