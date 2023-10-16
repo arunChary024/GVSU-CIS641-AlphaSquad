@@ -17,8 +17,10 @@
 ### Setting up the Project
 **Clone the Repository**: Open your terminal and navigate to the directory where you want to store the project. Then, clone your GitHub repository using the following command: 
 	git clone https://github.com/yourusername/your-shopping-website.git
+ 
 **Navigate to the Project Directory**: Change your working directory to the project folder:
 	cd your-shopping-website
+ 
 **Install Dependencies:** Install the required project dependencies. This assumes you have npm installed. Run the following command:
 	npm install
 
