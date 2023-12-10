@@ -26,16 +26,34 @@
 **Install Dependencies:** Install the required project dependencies. This assumes you have npm installed. Run the following command:
 	**npm install**
 
-**Firebase Configuration**:
+### Setting Up Firebase
 
-- Go to the Firebase console and create a new project.
-- Add a new web app to your Firebase project and follow the instructions to set up - Firebase SDK.
-- Replace the Firebase config object in your application with the one provided by Firebase setup.
+To integrate Firebase into your project, follow these steps:
 
-## Run Instructions
-### To run the shopping website:
-**Start the Development Server**: You can start the development server by running the following command in your project directory: **npm start**
-This will launch your shopping website on a development server, typically at **http://localhost:3000.**
+**Step 1: Create a Firebase Project**
+1. Visit the [Firebase Console](https://console.firebase.google.com/).
+2. Sign in with your Google account.
+3. Click “Add project” and follow the prompts to create a new Firebase project.
+
+**Step 2: Register Your Web App with Firebase**
+1. In your Firebase project dashboard, click the web icon (`</>`) to add a web app.
+2. Enter a nickname for your app and follow the setup instructions.
+3. Copy the Firebase SDK snippet provided at the end of the process.
+
+**Step 3: Add Firebase Realtime Database**
+1. In the Firebase Console, navigate to the “Database” section.
+2. Under Realtime Database, click “Create Database.”
+3. Follow the prompts to start your database in either locked mode or test mode.
+
+**Step 4: Configure Your Web App**
+1. Add the Firebase config object (from Step 2) to your web app's Firebase configuration file.
+2. Ensure your app's dependencies are installed by running `npm install` in your project directory.
+
+**Step 5: Run Your Web App**
+1. Start your local server with `npm start`.
+2. Access the web app at [http://localhost:3000](http://localhost:3000) (or the designated local server port).
+
+Remember to replace the Firebase configuration in your project with your own Firebase project details.
 
 **Usage**: Access the shopping website by opening a web browser and navigating to **http://localhost:3000.**
 
