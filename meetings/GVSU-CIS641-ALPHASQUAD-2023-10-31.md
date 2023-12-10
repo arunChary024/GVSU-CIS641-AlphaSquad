@@ -12,7 +12,7 @@ Time: 60 MINTS
 
 -	Discussed the search and product-adding functionalities to the cart.
 -	Discussed the creation of an account info page displaying user information and 	purchase history.
--	Talked about establishing an intuitive flow for users to manage their shopping 	carts, including options for saving items for later and a clear pathway to 	proceed to checkout.
+-	Talked about establishing an intuitive flow for users to manage their shopping 	carts, including options for saving items for later and a clear pathway to 		proceed to checkout.
 -	Discussed the cart screen for a faster and more efficient checkout experience, 	ensuring that users can quickly purchase products.
 
  
