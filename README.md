@@ -67,4 +67,8 @@ To access the admin panel for demonstration purposes, use the following credenti
 
 Enjoy using our e-commerce website for a delightful shopping experience!
 
+Happy Shopping! 🛍️✨
 
+Remember, shop responsibly – your wallet might not be as infinite as our website’s possibilities! 🚀😄
+
+This project is brought to you by the GVSU-CIS641-AlphaSquad, where code meets creativity and every commit is a step towards a shopper’s paradise! 💻🎉
