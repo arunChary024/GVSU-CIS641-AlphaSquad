@@ -55,10 +55,12 @@ To integrate Firebase into your project, follow these steps:
 
 Remember to replace the Firebase configuration in your project with your own Firebase project details.
 
-**Usage**: Access the shopping website by opening a web browser and navigating to **http://localhost:3000.**
+**Usage**: Access the shopping website by opening a web browser and navigating to **http://localhost:3000**
 
 ### Admin Credentials for Demonstration:
 To access the admin panel for demonstration purposes, use the following credentials:
+
+**Usage**: Access the Admin website by opening a web browser and navigating to **http://localhost:3000/admin**
 
 **Username**: admin@admin.com  
 **Password**: Admin123
